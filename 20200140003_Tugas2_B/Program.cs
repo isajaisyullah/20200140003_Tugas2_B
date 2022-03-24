@@ -77,7 +77,7 @@ namespace _20200140003_Tugas2_B
             Console.Write("Masukkan Nomor Telepon \t\t: ");
             noTelp = Convert.ToInt64(Console.ReadLine());
 
-            Console.Write("Masukkan Alamat \t\t:");
+            Console.Write("Masukkan Alamat \t\t: ");
             Alamat = Console.ReadLine();
 
             Console.WriteLine("---------------------------\n");
@@ -126,7 +126,7 @@ namespace _20200140003_Tugas2_B
             Console.Write("Masukkan Nomor Telepon \t\t: ");
             noTelp = Convert.ToInt64(Console.ReadLine());
 
-            Console.Write("Masukkan Alamat \t\t:");
+            Console.Write("Masukkan Alamat \t\t: ");
             Alamat = Console.ReadLine();
 
             Console.WriteLine("---------------------------\n");
@@ -172,7 +172,7 @@ namespace _20200140003_Tugas2_B
             Console.Write("Masukkan Nomor Telepon \t\t: ");
             noTelp = Convert.ToInt64(Console.ReadLine());
 
-            Console.Write("Masukkan Alamat \t\t:");
+            Console.Write("Masukkan Alamat \t\t: ");
             Alamat = Console.ReadLine();
 
             Console.WriteLine("--------------------------\n");
